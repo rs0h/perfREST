@@ -1,0 +1,14 @@
+{
+  "name": "test",
+  "version": "1.0",
+  "description": "test",
+  "main": "app.js",
+  "scripts": {
+    "test": "no"
+  },
+  "author": "me",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}

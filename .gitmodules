@@ -1,3 +1,6 @@
 [submodule "tns-restful-json-api"]
 	path = tns-restful-json-api
 	url = git://github.com/corylanou/tns-restful-json-api.git
+[submodule "gs-rest-service"]
+	path = gs-rest-service
+	url = git://github.com/spring-guides/gs-rest-service.git
