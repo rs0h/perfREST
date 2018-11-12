@@ -1,0 +1,3 @@
+[submodule "tns-restful-json-api"]
+	path = tns-restful-json-api
+	url = git://github.com/corylanou/tns-restful-json-api.git
